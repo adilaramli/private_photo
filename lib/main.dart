@@ -10,6 +10,15 @@ void main() async {
   await Firebase.initializeApp();
   runApp(MaterialApp(
     home: MyApp(),
+    themeMode: ThemeMode.system,
+    theme: ThemeData(
+      brightness: Brightness.light,
+      accentColor: Colors.blue,
+    ),
+    darkTheme: ThemeData(
+      brightness: Brightness.dark,
+      accentColor: Colors.amber[700],
+    ),
     debugShowCheckedModeBanner: false,
   ));
 }
