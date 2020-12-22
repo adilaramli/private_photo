@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17734523722",
+    "project_id": "private-photo-18ccf",
+    "storage_bucket": "private-photo-18ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17734523722:android:87fb8790bb719879673fb3",
+        "android_client_info": {
+          "package_name": "com.example.private_photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17734523722-lv0bamadt229tkttah9sa98uo1lr7b95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRE8xuHpMdt6Xk5LsV3mxC6oYzOf6rVEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17734523722-lv0bamadt229tkttah9sa98uo1lr7b95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
